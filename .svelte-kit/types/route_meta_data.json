@@ -1,0 +1,32 @@
+{
+	"/": [
+		"src/routes/+page.server.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/about": [
+		"src/routes/about/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/comic": [
+		"src/routes/comic/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/education": [
+		"src/routes/+layout.ts"
+	],
+	"/experience": [
+		"src/routes/+layout.ts"
+	],
+	"/projects": [
+		"src/routes/+layout.ts"
+	],
+	"/sverdle": [
+		"src/routes/sverdle/+page.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/sverdle/how-to-play": [
+		"src/routes/sverdle/how-to-play/+page.ts",
+		"src/routes/+layout.ts"
+	]
+}
